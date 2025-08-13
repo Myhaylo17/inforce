@@ -21,4 +21,7 @@ Authentication:JWT
 Testing: Pytest
 
 You can add restaurants/menus through the admin panel or through the httpie module by writing commands, 
-you can check the menu votes and which restaurants are open today: admin panel or through the httpie module by writing commands
+you can check the menu votes and which restaurants are open today: admin panel or through the httpie module by writing commands.
+
+
+At any moment you can see which restaurants are open today or which restaurant won the vote today.
