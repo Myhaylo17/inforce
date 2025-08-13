@@ -25,3 +25,8 @@ you can check the menu votes and which restaurants are open today: admin panel o
 
 
 At any moment you can see which restaurants are open today or which restaurant won the vote today.
+
+
+run the program classically with the command python manage.py runserver 
+Log in to the account via the url api/token
+check restaurants etc in the admin panel
